@@ -1,0 +1,18 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "html language",
+  "main": "main.js",
+  "scripts": {
+    "test": "console.log();\u001b[D\u001b[D\"\"\u001b[Dhi\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "--"
+  },
+  "keywords": [
+    "--"
+  ],
+  "author": "idkondor",
+  "license": "UNLICENSED"
+}
